@@ -54,7 +54,7 @@ group :test do
 end
 group :production do
   #Use the PostgreSQL gem for Heroku production servers
-  gem 'pg'
+ # gem 'pg'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
